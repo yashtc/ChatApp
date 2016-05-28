@@ -1,0 +1,44 @@
+* {
+	font-family: tahoma;
+	font-size: 12px;
+	padding: 0px;
+}
+
+p {
+	line-height: 18px;
+}
+
+div {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#roomList {
+	float: left;
+}
+
+#roomContentContainer div {
+	padding: 5px;
+	background: #ddd;
+	border-radius: 5px;
+	overflow-y: scroll;
+	border: 1px solid #CCC;
+	margin-top: 10px;
+	height: 560px;
+}
+
+#input {
+	border-radius: 2px;
+	border: 1px solid #ccc;
+	margin-top: 10px;
+	padding: 5px;
+	width: 700px;
+}
+
+#status {
+	width: 88px;
+	display: block;
+	float: left;
+	margin-top: 15px;
+}
